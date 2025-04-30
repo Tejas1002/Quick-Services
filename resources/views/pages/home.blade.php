@@ -100,7 +100,7 @@ use Illuminate\Support\Str;
                 <div class="swiper-pagination"></div>
             </div>
             <div class="hero-content">
-                <h1>Quick Services</h1>
+                <h1>Quick Services tejas</h1>
                 <p>Fast, Reliable, and Professional Services at Your Fingertips</p>
             </div>
         </section>
